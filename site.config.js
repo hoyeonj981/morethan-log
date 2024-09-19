@@ -19,12 +19,12 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "hoyeon-blog",
-    description: "welcome to morethan-log!",
+    description: "welcome to hoyeon-blog!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://hoyeon-blog.vercel.app/",
   since: 2024, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
